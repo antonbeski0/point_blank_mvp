@@ -22,7 +22,7 @@ It is designed for **interactive exploration**, **data export**, and **AI-driven
 
 ---
 
-## ✨ Key Features
+##  Key Features
 - **Live Market Data** — Fetch historical data from Yahoo Finance (`yfinance`) with validation and retry handling.  
 - **Dynamic Charts** — Plotly-powered interactive charts with SMA, MACD, RSI, Bollinger Bands, ATR, and more.  
 - **AI Insights** — Compute technical analysis summaries, overall signal strength, and price trends.  
@@ -36,7 +36,7 @@ It is designed for **interactive exploration**, **data export**, and **AI-driven
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 <p align="center">
   <img width="744" height="496" alt="App Screenshot 1" src="https://github.com/user-attachments/assets/557f11f6-f580-4480-9594-bd7c53370c4e" />
   <img width="508" height="304" alt="App Screenshot 2" src="https://github.com/user-attachments/assets/8cc0fa52-7824-4ffd-bb4e-72452b6a081c" />
@@ -44,7 +44,7 @@ It is designed for **interactive exploration**, **data export**, and **AI-driven
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 ### Core Dependencies
 ```bash
@@ -71,7 +71,7 @@ tensorflow
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -123,7 +123,7 @@ Then open your browser at **http://localhost:8501**.
 
 ---
 
-## 🧠 Forecasting Models
+##  Forecasting Models
 - **Prophet** — Regression-based time series forecasting.  
 - **ARIMA** — Stationarity tests with auto order selection.  
 - **Random Forest** — Ensemble learning for short-term predictions.  
@@ -131,7 +131,7 @@ Then open your browser at **http://localhost:8501**.
 
 ---
 
-## 🧩 Internals & Architecture
+##  Internals & Architecture
 | Function | Purpose |
 |-----------|----------|
 | `fetch_yahoo_data()` | Fetches and validates market data. |
@@ -140,7 +140,7 @@ Then open your browser at **http://localhost:8501**.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 1. Fork the repository  
 2. Create a feature branch  
    ```bash
@@ -151,14 +151,15 @@ Then open your browser at **http://localhost:8501**.
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author & Contact
-**Anton Beski M**  
-📧 For support or feedback — please open an **Issue** or **Pull Request** on GitHub.
+##  Author & Contact
+**Anton Beski M** 
+ antbsk0@gmail.com
+ For support or feedback — please open an **Issue** or **Pull Request** on GitHub.
 
 ---
 
